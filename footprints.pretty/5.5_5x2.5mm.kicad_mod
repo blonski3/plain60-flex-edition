@@ -1,0 +1,9 @@
+(module "5.5_5x2.5mm" (layer F.Cu) (tedit 5EA30BB9)
+  (fp_text reference "REF**" (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value "5.5_5x2.5mm" (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad "" np_thru_hole oval (at 0 0) (size 5 2.5) (drill oval 5 2.5) (layers *.Cu *.Mask) (tstamp c887c1ed-62d6-4d61-9226-329d010a6b86))
+)
