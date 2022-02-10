@@ -18,7 +18,7 @@ It also features a fuse and an ESD protection chip to protect the MCU and other 
 - ISP header
 
 ## Supported layouts
-![Supported layouts of the Plain60-C](https://i.imgur.com/dq04Csv.png)
+![Supported layouts of the Plain60-C](https://camo.githubusercontent.com/b7bf1e205f0de11d04168f8d98c2d38c173920a934f07443b3a508a0479f19b7/68747470733a2f2f692e696d6775722e636f6d2f6b6a414c6273742e706e67)
 
 ## Building
 If you feel like building a few of these PCBs yourself, go to the 'Releases' tab and download the latest gerber files. Order those at your favourite PCB manufacturer, get the components needed (see below) and solder them on! A hot air station is not required but a soldering iron is. Flux is recommended.
